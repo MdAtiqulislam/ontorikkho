@@ -1,0 +1,17 @@
+flutter/ephemeral/
+
+# Visual Studio user-specific data.
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio build-related data.
+x64/
+x86/
+
+# Visual Studio cache data
+# data ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
