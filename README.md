@@ -2,6 +2,9 @@
 
 A Flutter community/commerce app — posts, directory, announcements, cart and checkout in one app.
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ontorikkho.ontorikkho)
+
+
 ## Features
 
 - Posts: create, edit and browse community posts
